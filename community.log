@@ -1,0 +1,22 @@
+2022-04-06 15:12:40.744  INFO 3612 --- [restartedMain] com.ljw.CommunityLearnApplication        : Starting CommunityLearnApplication using Java 1.8.0_281 on DESKTOP-PJ6PT6S with PID 3612 (F:\project\Java\JavaWeb\community-learn\target\classes started by koiman in F:\project\Java\JavaWeb\community-learn)
+2022-04-06 15:12:40.748 DEBUG 3612 --- [restartedMain] com.ljw.CommunityLearnApplication        : Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-06 15:12:40.748  INFO 3612 --- [restartedMain] com.ljw.CommunityLearnApplication        : No active profile set, falling back to 1 default profile: "default"
+2022-04-06 15:12:41.813  INFO 3612 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-04-06 15:12:41.815  INFO 3612 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-06 15:12:41.816  INFO 3612 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-06 15:12:41.854  INFO 3612 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-06 15:12:41.854  INFO 3612 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1101 ms
+2022-04-06 15:12:43.761  INFO 3612 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-04-06 15:12:43.992  INFO 3612 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-04-06 15:12:44.019  INFO 3612 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-06 15:12:44.048  INFO 3612 --- [restartedMain] com.ljw.CommunityLearnApplication        : Started CommunityLearnApplication in 3.429 seconds (JVM running for 1143.072)
+2022-04-06 15:12:44.055  INFO 3612 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-04-06 15:12:46.068  INFO 34196 --- [main] com.ljw.LoggerTest                       : Starting LoggerTest using Java 1.8.0_281 on DESKTOP-PJ6PT6S with PID 34196 (started by koiman in F:\project\Java\JavaWeb\community-learn)
+2022-04-06 15:12:46.071 DEBUG 34196 --- [main] com.ljw.LoggerTest                       : Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-06 15:12:46.076  INFO 34196 --- [main] com.ljw.LoggerTest                       : No active profile set, falling back to 1 default profile: "default"
+2022-04-06 15:12:53.763  INFO 34196 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-04-06 15:12:54.624  INFO 34196 --- [main] com.ljw.LoggerTest                       : Started LoggerTest in 10.343 seconds (JVM running for 15.522)
+2022-04-06 15:12:55.151 DEBUG 34196 --- [main] com.ljw.LoggerTest                       : debug log
+2022-04-06 15:12:55.152  INFO 34196 --- [main] com.ljw.LoggerTest                       : info log
+2022-04-06 15:12:55.152  WARN 34196 --- [main] com.ljw.LoggerTest                       : warn log
+2022-04-06 15:12:55.152 ERROR 34196 --- [main] com.ljw.LoggerTest                       : error log
